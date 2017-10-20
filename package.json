@@ -1,0 +1,7 @@
+{
+  "name": "lambda-spotify-token",
+  "dependencies": {
+    "request": "latest",
+    "aws-sdk": "latest"
+  }
+}
